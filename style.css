@@ -1,0 +1,55 @@
+body {
+    background-image: url("Monkey\ D_\ Luffy\ Wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+  }
+  h1 {
+    color: azure;
+    margin-top: 250px;
+    margin-left: 89px;
+
+  }
+  p {
+    text-shadow: none;
+    margin-top: 500px;
+  }
+  ul {
+    color: aliceblue;
+  }
+  table td {
+    color: rgb(206, 199, 199);
+    font-size: larger;
+    font-weight:600;
+    
+
+    
+  }
+  table {
+    height: 80px;
+
+    width: 50%;
+  }
+  a:link {
+    color: azure;
+  }
+  a:active {
+    color: azure;
+    
+  }
+
+  a:visited {
+    color:rgb(255, 255, 255)
+  }
+
+  
+  a:hover {
+    color:#e8dd73;
+  }
+  th {
+    color:#946e36;
+    font-size: xx-large;
+  }
+  #home {
+    color: black;
+  }

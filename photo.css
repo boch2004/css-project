@@ -1,0 +1,12 @@
+body {
+    background-image:url(https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600,h_525/https://www.underwater-festival.com/wp-content/uploads/2020/10/MG00009-26.png);
+    background-size:10%;
+    backdrop-filter:blur(3px);
+}
+div {
+    margin-top: 250px;
+}
+p {
+    
+    margin-top: 231px;
+}
