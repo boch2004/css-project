@@ -4,9 +4,17 @@ body {
     backdrop-filter:blur(3px);
 }
 div {
-    margin-top: 250px;
+    /* margin-top: 250px; */
 }
 p {
     
     margin-top: 231px;
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 755px;
+    width:100%;
 }
